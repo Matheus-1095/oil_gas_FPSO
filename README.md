@@ -57,13 +57,13 @@ Despite lower precision, the model's perfect recall ensures **zero false negativ
 
 ## 💰 Business Value
 
-Predicting all failures in advance can prevent **millions of dollars in losses** per year due to unplanned downtime, repairs and environmental risks. A detailed business impact analysis is included in the notebook.
+Predicting all failures in advance can prevent **~10 millions of dollars in losses** per year due to unplanned downtime, repairs and environmental risks. A detailed business impact analysis is included in the notebook.
 
 ---
 
 ## 🙏 Acknowledgements
 
-Thanks to the Shape Digital team for the opportunity to participate in this technical challenge. It was an enriching exercise that combined data science, domain understanding, and real-world impact.
+This technical challenge was an enriching exercise that combined data science, domain understanding, and real-world impact.
 
 ---
 
