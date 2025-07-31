@@ -1,4 +1,4 @@
-# 🔍 Predictive Maintenance for FPSO Equipment – Shape Digital Data Science Test
+# 🔍 Predictive Maintenance for FPSO Equipment
 
 This repository contains my solution to the technical challenge proposed for FPSO Oil&Gas solution. The objective was to analyze sensor data from an FPSO (Floating Production, Storage and Offloading) vessel and develop a predictive model to anticipate equipment failures.
 
